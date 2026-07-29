@@ -1,0 +1,6 @@
+# Processed datasets
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
